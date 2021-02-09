@@ -1,0 +1,1 @@
+# asialatsushi.github.io
