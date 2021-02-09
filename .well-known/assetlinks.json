@@ -1,1 +1,9 @@
-{}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.doda.campus.stg",
+    "sha256_cert_fingerprints":
+    ["2F:DF:DF:D0:0F:6C:69:5A:6F:CF:B5:59:DD:42:57:B4:F6:22:21:8C:92:36:95:A0:D3:20:86:D3:AE:C5:08:ED"]
+  }
+}]
