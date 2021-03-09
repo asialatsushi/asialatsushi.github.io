@@ -1,17 +1,4 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "jp.co.asial.campus",
-      "sha256_cert_fingerprints": [
-        "BA:2F:18:E4:FF:28:39:25:26:B1:8E:39:D0:5B:B4:3F:D1:85:4E:FF:2B:A3:FD:51:19:5A:B2:D8:0D:24:5B:89"
-      ]
-    }
-  },
-  {
+[{
     "relation": [
       "delegate_permission/common.handle_all_urls"
     ],
@@ -19,20 +6,7 @@
       "namespace": "android_app",
       "package_name": "jp.doda.campus.stg",
       "sha256_cert_fingerprints": [
-        "2F:DF:DF:D0:0F:6C:69:5A:6F:CF:B5:59:DD:42:57:B4:F6:22:21:8C:92:36:95:A0:D3:20:86:D3:AE:C5:08:ED"
+        "8B:13:E5:CF:43:DC:14:78:9E:4D:A3:3A:C8:28:BC:49:1C:23:EC:DD:BB:C8:E7:0B:97:57:2A:EC:26:C5:DE:01"
       ]
     }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "jp.doda.campus",
-      "sha256_cert_fingerprints": [
-        "B2:1C:A8:1D:53:5A:65:EE:F8:09:55:A4:32:F1:01:F7:A7:C2:B5:19:68:38:7E:D0:DC:49:61:DA:2D:B7:C1:7E"
-      ]
-    }
-  }
-]
+}]
